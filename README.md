@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">I am an IT student from HUST. Currently, I am learning about Frontend Development and Machine Learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4188877-Developer-Animated-Icon">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4188877-Developer-Animated-Icon/attachments/10250595?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnguyen295&label=Profile%20views&color=0e75b6&style=flat" alt="longnguyen295" /> </p>
 
